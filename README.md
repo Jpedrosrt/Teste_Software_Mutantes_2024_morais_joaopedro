@@ -1,5 +1,8 @@
 # Teste de Mutação no Projeto Phonebook
 
+### Tutorial PDF
+[Acesse o tutorial em PDF](https://drive.google.com/file/d/1MugJ0vTg2airwrXK2HW_LGb9yYdX673R/view?usp=sharing)
+
 ## Introdução
 
 No desenvolvimento de software, a criação de testes eficazes é crucial para garantir a qualidade e a robustez do código. Entre as diversas técnicas disponíveis, os testes de mutação se destacam por sua capacidade de identificar falhas e pontos fracos nos casos de teste existentes. Esta metodologia envolve a introdução de defeitos no código, conhecidos como "mutações", para avaliar se os casos de teste são eficazes em detectar essas falhas.
