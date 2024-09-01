@@ -7,7 +7,7 @@
 
 No desenvolvimento de software, a criação de testes eficazes é crucial para garantir a qualidade e a robustez do código. Entre as diversas técnicas disponíveis, os testes de mutação se destacam por sua capacidade de identificar falhas e pontos fracos nos casos de teste existentes. Esta metodologia envolve a introdução de defeitos no código, conhecidos como "mutações", para avaliar se os casos de teste são eficazes em detectar essas falhas.
 
-Este repositório contém a aplicação dos testes de mutação no projeto Python "Phonebook", desenvolvido por Emily Bache no GitHub. Utilizamos as ferramentas `pytest` para a execução de testes unitários, `pytest-cov` para a avaliação da cobertura dos testes, e `mutmut` para a realização dos testes de mutação.
+Este repositório contém a aplicação dos testes de mutação no projeto Python "Phonebook", desenvolvido por Emily Bache no [GitHub](https://github.com/emilybache/Phonebook-Python-Example-Project). Utilizamos as ferramentas `pytest` para a execução de testes unitários, `pytest-cov` para a avaliação da cobertura dos testes, e `mutmut` para a realização dos testes de mutação.
 
 ## Estrutura do Projeto Phonebook
 
